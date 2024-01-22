@@ -95,5 +95,12 @@ exclude: |
       pythonbible/bible/kjv/plain_text.py|
       pythonbible/bible/kjv/plain_text_notes.py|
       pythonbible/bible/kjv/plain_text_readers.py|
-      pythonbible/bible/kjv/titles.py
+      pythonbible/bible/kjv/titles.py|
+      pythonbible/bible/niv/html.py|
+      pythonbible/bible/niv/html_notes.py|
+      pythonbible/bible/niv/html_readers.py|
+      pythonbible/bible/niv/plain_text.py|
+      pythonbible/bible/niv/plain_text_notes.py|
+      pythonbible/bible/niv/plain_text_readers.py|
+      pythonbible/bible/niv/titles.py
   )$

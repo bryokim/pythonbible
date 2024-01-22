@@ -117,4 +117,4 @@ fix = true
 force-single-line = true
 
 [tool.mypy]
-exclude = ["pythonbible/bible/asv/*", "pythonbible/bible/kjv/*", ".*_test.py"]
+exclude = ["pythonbible/bible/asv/*", "pythonbible/bible/kjv/*", "pythonbible/bible/niv/*", ".*_test.py"]

@@ -9,6 +9,7 @@ ignore:
     - vendor
     - pythonbible/bible/asv/*.py
     - pythonbible/bible/kjv/*.py
+    - pythonbible/bible/niv/*.py
     - docs/build
 
 rule_settings:
